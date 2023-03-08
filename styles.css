@@ -83,7 +83,8 @@ h1, h2, h3, h4, p {
 }
 
 #footer {
-    font-style: italic;
+    color: black;
+    text-decoration: underline;
     width: 400px;
     margin: 40px auto 20px;
 }
